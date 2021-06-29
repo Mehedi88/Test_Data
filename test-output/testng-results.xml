@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-25T02:07:06 EST" name="Default suite" finished-at="2020-12-25T02:07:19 EST" duration-ms="12776">
+    <groups>
+    </groups>
+    <test started-at="2020-12-25T02:07:06 EST" name="Default test" finished-at="2020-12-25T02:07:19 EST" duration-ms="12776">
+      <class name="faceBook.Amzon">
+        <test-method signature="t(java.lang.String, java.lang.String)[pri:0, instance:faceBook.Amzon@14d3bc22]" started-at="2020-12-25T02:07:06 EST" name="t" data-provider="test" finished-at="2020-12-25T02:07:19 EST" duration-ms="12708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tushar.7588@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bangladesh1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- faceBook.Amzon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
